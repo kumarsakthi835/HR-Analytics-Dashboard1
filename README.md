@@ -42,6 +42,8 @@ The dataset includes:
 * Employees with shorter tenure are more likely to leave
 
 ## Screenshorts
+Dashboard Preview:   https://github.com/kumarsakthi835/HR-Analytics-Dashboard1/blob/main/Dashboard.png
+
 
 
 ---
